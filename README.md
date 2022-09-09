@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NowanFX</h1>
-<h3 align="center">I have no skill, but i'm working on it.</h3>
+<h3 align="center">I have no skill, but i'm still working on it.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
